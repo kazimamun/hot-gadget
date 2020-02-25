@@ -1,0 +1,31 @@
+.navbar a{
+    color: gray;
+}
+.text-color-yellow{
+    color:orange;
+}
+.align_center{
+    text-align: center;
+}
+#product h5, p{
+    text-align: center;
+}
+.laptop{
+    margin-top: 100px;
+}
+.laptop h5, p{
+    text-align: center;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.buy_now{
+    margin-left: 100px;
+}
+.phone{
+    margin-top: 70px;
+}
+.image_class{
+    margin-top: 10px;
+}
